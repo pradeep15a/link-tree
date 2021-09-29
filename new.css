@@ -69,7 +69,7 @@ body{
 .container a:nth-child(5){
     filter: hue-rotate(240deg);
 }
-.container a:nth-child(5){
+.container a:nth-child(6){
     filter: hue-rotate(300deg);
 }
 .container a::before{
